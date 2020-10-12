@@ -3,3 +3,5 @@ edad:19
 juegos: "hearst of iron","warzone","fortnite" y "red redeption"
 juegos favoritos: warzone , red redeption y halo 5
 carrera: ingenieria petrolera
+materia: fundamentos de programacion
+semestre:
